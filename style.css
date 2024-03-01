@@ -7,7 +7,7 @@ body {
     
     main { 
         display: grid;
-        grid-template-columns: 40% 60%;
+        grid-template-columns: 85% 15%;
         margin-top: em;
         }
     
@@ -20,4 +20,5 @@ body {
 
         #mainRight{
             margin-left:.5em; ;
+            background-color: darkgray;
         }
