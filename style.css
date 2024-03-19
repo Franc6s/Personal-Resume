@@ -7,7 +7,7 @@ body {
     
     main { 
         display: grid;
-        grid-template-columns: 85% 15%;
+        grid-template-columns: 60% 40%;
         margin-top: em;
         }
     
